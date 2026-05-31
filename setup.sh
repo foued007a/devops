@@ -7,4 +7,4 @@ echo "installing nginx"
 sudo apt install nginx -y
 
 echo "configuration permission"
-chmod 700 ~/deploy_app
+chmod 700 ~/devops
